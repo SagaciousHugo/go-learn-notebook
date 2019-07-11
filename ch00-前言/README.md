@@ -23,5 +23,14 @@
 **本笔记目前基于Golang 1.12版本，后续持续维护会增改章节内容**
 
 
+Go官方对一些常见问题的回答
+https://golang.org/doc/faq
 
-https://studygolang.com/topics/8784#reply949  轻量级tcp并发服务
+学习资料
+
+Go夜读
+
+
+一些笔记
+https://tiancaiamao.gitbooks.io/go-internals/content/zh/06.2.html
+https://www.kancloud.cn/liupengjie/go/639246
