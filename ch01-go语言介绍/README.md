@@ -21,7 +21,7 @@ go tool 6g -S x.go        # or: go build -gcflags -S x.go
 
 https://www.cnblogs.com/yjf512/p/6132868.html go汇编命令解读
 
-https://studygolang.com/articles/19687?fr=sidebar 深入了解go的底层实现，竟然是汇编
+
 
 
 
