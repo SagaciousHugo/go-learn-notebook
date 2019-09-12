@@ -4,3 +4,4 @@ https://segmentfault.com/a/1190000018876007
 
 http://lessisbetter.site/2019/03/26/golang-scheduler-2-macro-view/
 
+https://studygolang.com/articles/12328 Go work-stealing 调度器

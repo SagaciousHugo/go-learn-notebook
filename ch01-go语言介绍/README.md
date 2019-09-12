@@ -25,11 +25,9 @@ https://www.cnblogs.com/yjf512/p/6132868.html go汇编命令解读
 
 
 
-https://blog.csdn.net/qq_25870633/article/details/83448222  interface底层分析实现 （我的架构师之路）
 
 https://www.cnblogs.com/zkweb/p/7777525.html 编译调试GO源码
 
-https://segmentfault.com/a/1190000019303572?utm_source=tag-newest 深入理解defer 煎鱼的清汤锅
 
 https://www.jianshu.com/p/88bb67a86a4e 反向调用关系的生成
 
